@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Praveen YP 👋
+### Hi, I'm Praveen YP 👋
 
 I'm an MCA student passionate about problem-solving and continuously learning to build efficient solutions. With a strong foundation in Java, ReactJS, JavaScript, Tailwind, NextJS, Solidity, and Git, I enjoy tackling challenges and expanding my knowledge in software development.
 
