@@ -1,30 +1,85 @@
-<h1 align="center">Hi 👋, I'm Praveen YP</h1>
-<h3 align="center">I'm an MCA student passionate about problem-solving and continuously learning to build efficient solutions. With a strong foundation in Java, ReactJS, JavaScript, Tailwind, NextJS, Solidity, and Git, I enjoy tackling challenges and expanding my knowledge in software development.</h3>
+# Hi there! 👋 I'm **Praveen YP**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenyp&label=Profile%20views&color=0e75b6&style=flat" alt="praveenyp" /> </p>
+> **Passionate Problem Solver | Aspiring Software Engineer**
 
-<p align="left"> <a href="https://twitter.com/pravnaaa" target="blank"><img src="https://img.shields.io/twitter/follow/pravnaaa?logo=twitter&style=for-the-badge" alt="pravnaaa" /></a> </p>
+Aspiring tech enthusiast, passionate about problem-solving and continuously learning to build efficient solutions.  
+Eager to grow, collaborate, and contribute to meaningful projects in the tech space.  
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+---
 
-- 💬 Ask me about **react and java**
+### 🌟 **About Me**
+🎓 Pursuing **MCA** at Presidency University  
+💡 Passionate about **building scalable applications** and exploring **innovative technologies**  
+🔭 **Current Focus:** Learning **DSA** using **System Design**  
 
-- ⚡ Fun fact **When I'm not coding, you'll probably find me diving into tech articles or figuring out how to make the perfect cup of coffee! ☕**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pravnaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pravnaaa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/praveenyp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praveenyp" height="30" width="40" /></a>
-<a href="https://instagram.com/pravnaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pravnaaa" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prav11nn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prav11nn" height="30" width="40" /></a>
-</p>
+### 🛠️ **Skills & Tools**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+#### **Languages**
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/praveenyp"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="praveenyp" /></a></p><br><br>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenyp&show_icons=true&locale=en&layout=compact" alt="praveenyp" /></p>
+#### **Frameworks & Libraries**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)  
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=mui&logoColor=white)  
+![shadcn](https://img.shields.io/badge/shadcn-000000?style=flat-square&logo=tailwindcss&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square)  
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenyp&" alt="praveenyp" /></p>
+---
+
+#### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)  
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+
+---
+
+### 🌐 **Connect With Me**
+
+#### **Quick Links:**
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveenyp11@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveenyp/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pravnaa)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://praveen-portfolio-ten.vercel.app/)
+
+---
+
+### 📈 **GitHub Stats**
+<div align="center">
+  
+![Praveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveenyp&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenyp&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=praveenyp&theme=radical)  
+
+</div>
+
+---
+
+### 🎨 **Hobbies**
+- Playing cricket 🏏  
+- Chess ♟️  
+- Reading books 📚
+
+---
+
+### 🌍 **Fun Fact**
+I can debug faster than I can cook noodles! 🍜
+
+---
+
+### 🤝 **Let’s Collaborate!**
+I’m always looking to connect with like-minded developers, explore new ideas, and collaborate on innovative projects. If you have an exciting idea, feel free to reach out! 🚀
