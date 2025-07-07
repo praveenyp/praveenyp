@@ -64,8 +64,7 @@ Eager to grow, collaborate, and contribute to meaningful projects in the tech sp
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
-  <img width="12"/>
+  
 </div>
 
 
